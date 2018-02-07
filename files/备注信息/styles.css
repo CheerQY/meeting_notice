@@ -2,7 +2,7 @@
   margin:0px;
   background-image:none;
   position:relative;
-  left:-6px;
+  left:-12px;
   width:300px;
   margin-left:auto;
   margin-right:auto;
@@ -28,7 +28,7 @@
 }
 #u501 {
   position:absolute;
-  left:6px;
+  left:12px;
   top:25px;
   width:300px;
   height:32px;
@@ -49,7 +49,7 @@
 }
 #u503 {
   position:absolute;
-  left:6px;
+  left:12px;
   top:68px;
   width:100px;
   height:100px;
@@ -71,7 +71,7 @@
 }
 #u505 {
   position:absolute;
-  left:135px;
+  left:141px;
   top:68px;
   width:100px;
   height:100px;
