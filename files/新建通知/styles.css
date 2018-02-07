@@ -821,6 +821,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  text-align:left;
 }
 #u426 {
   position:absolute;
@@ -828,11 +829,12 @@
   top:270px;
   width:317px;
   height:58px;
+  text-align:left;
 }
 #u427 {
   position:absolute;
   left:2px;
-  top:21px;
+  top:2px;
   width:313px;
   word-wrap:break-word;
 }
@@ -2258,7 +2260,7 @@
   left:0px;
   top:0px;
   width:241px;
-  height:246px;
+  height:267px;
   background:inherit;
   background-color:rgba(208, 225, 125, 1);
   border:none;
@@ -2272,7 +2274,7 @@
   left:724px;
   top:14px;
   width:241px;
-  height:246px;
+  height:267px;
 }
 #u500 {
   position:absolute;
