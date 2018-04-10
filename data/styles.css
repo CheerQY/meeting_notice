@@ -73,6 +73,9 @@
 }
 .table_cell {
 }
+.sticky_1 {
+  text-align:left;
+}
 .sticky_3 {
   text-align:left;
 }
@@ -91,6 +94,8 @@
 .radio_button {
   text-align:left;
 }
+._流程形状 {
+}
 .line {
 }
 .box_2 {
@@ -100,4 +105,19 @@
 .label1 {
   font-size:14px;
   text-align:left;
+}
+.box_21 {
+}
+.label2 {
+  font-size:14px;
+  text-align:left;
+}
+._文本段落1 {
+  text-align:left;
+}
+._默认样式 {
+}
+.line1 {
+}
+.ellipse {
 }
